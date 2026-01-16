@@ -4,3 +4,5 @@ My goal is to have a successful IT career. This project prepared me by teaching 
 
 
 I improved my ability to collaborate with my teammates and tolerate differing viewpoints during the ideation and prototype phases. I also learnt that it doesn't have to be flawless at first by creating a basic prototype.
+
+To improve , I need to stay focus and manage my time management wisely.
