@@ -1,1 +1,3 @@
+# Reflection ✨
 
+My visit to UTMDigital provided a beneficial link between theoretical concepts and real-world applications. Abstract course material became physical and relevant after experiencing firsthand how digital transformation and software project management are applied in a university setting. This experience deepened my interest in digital product development and IT strategy while emphasising the value of good leadership and methodical planning in tech projects. In the end, it demonstrated how technology can improve user experience and operational effectiveness in practical settings.
