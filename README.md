@@ -13,8 +13,6 @@ LECTURER : DR SURIATI BINTI SADIMON
 
 <div align="center">
 
-# Hi there! 👋 I'm Shaheed Putra
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-shaheedputra-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaheed-putra-5a3095388)](https://www.linkedin.com/in/shaheed-putra-5a3095388)
 
